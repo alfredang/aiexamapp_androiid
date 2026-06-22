@@ -4,6 +4,8 @@ Native **Kotlin + Jetpack Compose** client for Tertiary AI Exams mobile practice
 
 It talks to the same backend (`https://exams.tertiaryinfotech.com`) and mirrors every feature of the iOS client.
 
+> **Status:** Submitted to Google Play — **Closed testing** (in review). See [CHANGELOG.md](CHANGELOG.md).
+
 <p>
   <img src="screenshot.png" alt="AI Exams — About screen" width="280">
 </p>

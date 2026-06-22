@@ -19,3 +19,10 @@ build/
 *.keystore
 
 .playwright-mcp/
+
+# Playwright/console debug screenshots (root)
+/console-*.png
+/create-app-*.png
+/ds-*.png
+/play-signin.png
+/submitted-*.png
